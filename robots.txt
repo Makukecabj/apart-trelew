@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apart-trelew.vercel.app/sitemap.xml
